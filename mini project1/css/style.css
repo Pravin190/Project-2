@@ -1,0 +1,20 @@
+
+.body{
+
+        background-color: black;
+    }
+.center{
+
+    display:block;
+    margin:auto;
+
+}
+.Btn{
+
+    padding:20px;
+    background-color:chartreuse;
+    border-radius: 4px;
+    font-weight:bold;
+    cursor:pointer;
+
+}
